@@ -1,4 +1,4 @@
-# zoo
+# Zoo
 animal prediction
 # Heart Disease
 patient prediction
